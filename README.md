@@ -45,7 +45,6 @@ The following metrics were read directly from the notebook outputs.
 | --- | --- | ---: | ---: | ---: |
 | Linear SVM | PCA 20 -> 4, 200/80 split | 76.67% | 83.72% | 0.818 |
 | QSVC on simulator | 4-qubit quantum kernel | 73.33% | 81.82% | 0.751 |
-| QSVC on IBM hardware | `ibm_fez`, small runtime batch | 100.00% | 1.00 | N/A |
 
 ## Feature Selection Summary
 
